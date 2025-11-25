@@ -28,7 +28,7 @@ Key Features:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/akspshat1/Bitcoin-LSTM
    ```
 
 2. Install the required dependencies:
